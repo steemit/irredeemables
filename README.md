@@ -3,7 +3,7 @@
 
 This repository contains the abuser (irredeemables) username list for the [Hivemind](https://github.com/steemit/hivemind) application.
 
-The users in the `irredeemables` list will have their comments filtered out and their flags will not be considered in the logic that determines if comments or posts are hidden in most front end applications including [Condenser](https://github.com/steemit/condenser) (the software that powers steemit.com).
+The users in the `irredeemables` list will have their comments and posts filtered out and their flags will not be considered in the logic that determines if comments or posts are hidden in most front end applications including [Condenser](https://github.com/steemit/condenser) (the software that powers steemit.com).
 
 ## Update Procedure
 
