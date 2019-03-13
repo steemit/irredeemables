@@ -1,6 +1,15 @@
 animalcontrol
 exterminator
+lyndsayblowes
 fulltimebot1
+fulltimebot2
+fulltimebot3
+fulltimebot4
+fulltimebot5
+fulltimebot6
+fulltimebot7
+fulltimebot8
+fulltimebot9
 fulltimebot10
 fulltimebot11
 fulltimebot12
@@ -11,7 +20,6 @@ fulltimebot16
 fulltimebot17
 fulltimebot18
 fulltimebot19
-fulltimebot2
 fulltimebot20
 fulltimebot21
 fulltimebot22
@@ -22,7 +30,6 @@ fulltimebot26
 fulltimebot27
 fulltimebot28
 fulltimebot29
-fulltimebot3
 fulltimebot30
 fulltimebot31
 fulltimebot32
@@ -33,7 +40,6 @@ fulltimebot36
 fulltimebot37
 fulltimebot38
 fulltimebot39
-fulltimebot4
 fulltimebot40
 fulltimebot41
 fulltimebot42
@@ -44,7 +50,6 @@ fulltimebot46
 fulltimebot47
 fulltimebot48
 fulltimebot49
-fulltimebot5
 fulltimebot50
 fulltimebot51
 fulltimebot52
@@ -55,7 +60,6 @@ fulltimebot56
 fulltimebot57
 fulltimebot58
 fulltimebot59
-fulltimebot6
 fulltimebot60
 fulltimebot61
 fulltimebot62
@@ -66,13 +70,9 @@ fulltimebot66
 fulltimebot67
 fulltimebot68
 fulltimebot69
-fulltimebot7
 fulltimebot70
 fulltimebot71
 fulltimebot72
 fulltimebot73
 fulltimebot74
 fulltimebot75
-fulltimebot8
-fulltimebot9
-lyndsayblowes
