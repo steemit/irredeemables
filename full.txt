@@ -173,6 +173,7 @@ co-op
 coast
 coaster
 cognitive
+coininstant
 cold
 colonial
 colony
@@ -576,6 +577,7 @@ honestly
 honeymoon
 honor
 honored
+honusurf
 hony
 hood
 hop
