@@ -652,7 +652,11 @@ k1ng
 k3y
 kaf
 karthus
+<<<<<<< HEAD
 kdtkaren
+=======
+kawaiicrush
+>>>>>>> 79c82ed445a7bc32c14d466eb0c2355abef768b3
 keen
 keep
 keg
@@ -763,6 +767,7 @@ minions
 minister
 minute
 missle
+mitrado
 mixture
 mm-hmm
 mockingbird
@@ -1038,6 +1043,7 @@ sand
 satellite
 satisfaction
 satisfying
+savetheturtles
 saw
 sawbones
 scan

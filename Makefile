@@ -5,4 +5,4 @@ full.txt: 2*.txt
 	#     trailing \n with the first line of the next file.
 	#  2. {$1=$1};1 strips leading/trailing whitespace per line
 	#  3. tolower() ensures all usernames are lowercase
-	awk '{$$1=tolower($$1)};1' ./2*.txt | LC_COLLATE=C sort | uniq > $@
+	awk '{$$1=tolower($$1)};1' ./2*.txt | LC_ALL=C sort | uniq > $@
