@@ -402,6 +402,7 @@ from
 frozen
 fuckthemarkymark
 fuel
+fuk.themarkymark
 fulltimebot1
 fulltimebot10
 fulltimebot11
@@ -739,6 +740,7 @@ magics
 magnetic
 make
 mansion
+markymarksuxdick
 masked
 mastery
 mayor
