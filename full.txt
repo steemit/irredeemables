@@ -1155,6 +1155,7 @@ state
 statue
 stick
 sto
+stopthemarkymark
 stork
 stormtrooper
 straight
