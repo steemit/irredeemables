@@ -1060,6 +1060,7 @@ seaman
 secure
 seen
 seize
+selfvotejustice
 senator
 senpai
 sensitive
