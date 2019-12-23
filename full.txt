@@ -574,6 +574,7 @@ highlight
 highway
 hint
 hir
+hiroyamagishi
 historian
 hitman
 hobbit
