@@ -176,7 +176,6 @@ co-op
 coast
 coaster
 cognitive
-coininstant
 cold
 colonial
 colony
