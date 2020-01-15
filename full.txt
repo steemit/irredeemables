@@ -163,6 +163,7 @@ chest
 child
 children
 chivalry
+city-of-truth
 civilian
 civilization
 civilized
