@@ -163,6 +163,7 @@ chest
 child
 children
 chivalry
+churchofgod
 city-of-truth
 civilian
 civilization
