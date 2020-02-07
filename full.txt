@@ -163,6 +163,7 @@ chest
 child
 children
 chivalry
+church-of-god
 churchofgod
 city-of-truth
 civilian
