@@ -16,3 +16,4 @@ be-good-always
 city-of-truth
 churchofgod
 church-of-god
+captain-whale

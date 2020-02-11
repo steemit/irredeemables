@@ -133,6 +133,7 @@ cabinet
 calculate
 calculation
 calm
+captain-whale
 captin
 captive
 caring
