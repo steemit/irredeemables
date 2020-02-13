@@ -604,6 +604,7 @@ hoster
 hot-dog
 hour
 hum
+humanity-doctor
 humming
 hummingbird
 humongus
