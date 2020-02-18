@@ -225,6 +225,7 @@ d0t
 d1e
 daffy.duck
 damage
+daniels.coffee
 dat
 datacenter
 dau
